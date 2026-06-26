@@ -1,0 +1,5 @@
+# 개발 도구 설정 폴더 제외
+.idea/
+.vscode/
+__pycache__/
+*.pyc
